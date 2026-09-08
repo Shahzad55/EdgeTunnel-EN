@@ -10,6 +10,8 @@
 
 **Demo UI:** [Login](https://shahzad55.github.io/EDT-Pages.github.io/login/) · [Admin](https://shahzad55.github.io/EDT-Pages.github.io/admin/)
 
+**📘 راهنمای کامل استقرار (فارسی):** [DEPLOY.fa.md](./DEPLOY.fa.md)
+
 ---
 
 ## 🇬🇧 English
@@ -94,6 +96,8 @@ For learning and research only. You are responsible for lawful use and complianc
 مناسب کاربرانی که رابط چینی برایشان سخت است — مخصوصاً فارسی‌زبان‌ها.
 
 **دمو:** [ورود](https://shahzad55.github.io/EDT-Pages.github.io/login/) · [پنل ادمین](https://shahzad55.github.io/EDT-Pages.github.io/admin/)
+
+**📘 راهنمای کامل گام‌به‌گام:** **[DEPLOY.fa.md](./DEPLOY.fa.md)**
 
 ### امکانات
 
